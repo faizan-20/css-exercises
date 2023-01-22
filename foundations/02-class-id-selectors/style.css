@@ -1,0 +1,17 @@
+.a1{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 102, 102);
+}
+#a2{
+    color: rgb(0, 102, 255);
+    font-size: 36px;
+}
+.a1.cool{
+    font-size: 24px;
+}
+
+#a4{
+    background-color: rgb(153, 255, 153);
+    font-size: 24px;
+    font-weight: 600;
+}
